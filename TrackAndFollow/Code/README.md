@@ -6,7 +6,7 @@ You can install all the libraries following the instructions in :
 
 …
 
-After installing all the right libraries, you will be able to compile it using :
+After installing all the right libraries, you will be able to compile it using in your command prompt :
 
 …
 

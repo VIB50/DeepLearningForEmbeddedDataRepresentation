@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1542213675 source:/home/ubuntu/Documents/CPP/Tests/codeBlocks/DriveMotor/driveMotor/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	"Definitions.h"
+	<string.h>
+	<sstream>
+	<unistd.h>
+	<getopt.h>
+	<stdlib.h>
+	<stdio.h>
+	<list>
+	<math.h>
+	<sys/types.h>
+	<unistd.h>
+	<stdio.h>
+	<sys/times.h>
+	<sys/time.h>
+
+1542206180 source:/home/ubuntu/Documents/CPP/Tests/codeBlocks/DriveMotor/driveMotor/HelloEposCmd.cpp
+	<iostream>
+	"Definitions.h"
+	<string.h>
+	<sstream>
+	<unistd.h>
+	<getopt.h>
+	<stdlib.h>
+	<stdio.h>
+	<list>
+	<math.h>
+	<sys/types.h>
+	<unistd.h>
+	<stdio.h>
+	<sys/times.h>
+	<sys/time.h>
+
+1518158996 /home/ubuntu/Documents/CPP/Tests/codeBlocks/DriveMotor/driveMotor/Definitions.h
+

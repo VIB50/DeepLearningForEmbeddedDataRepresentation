@@ -1,5 +1,5 @@
 
-CPP = main.cpp Screen.cpp Motor.cpp Tracker.cpp MotorCommand.cpp Timer.cpp
+CPP = main.cpp Timer.cpp
 
 OPENCV="/usr/local/include/opencv"
 
@@ -15,7 +15,4 @@ all: compile
 
 compile: ${CPP}
 	g++ $^ ${ARG}
-
-hello:
-	@echo hello
 

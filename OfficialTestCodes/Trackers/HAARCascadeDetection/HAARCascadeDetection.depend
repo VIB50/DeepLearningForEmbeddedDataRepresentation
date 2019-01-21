@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542708479 source:/home/ubuntu/Documents/CPP/Tests/codeBlocks/Tracker/HAARCascadeDetection/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/objdetect/objdetect.hpp"
+	<iostream>
+	<stdio.h>
+
